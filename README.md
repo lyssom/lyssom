@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/lyssom/achievements?format=svg&limit=3" width="350" />
+</p>
