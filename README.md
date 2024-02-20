@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/lyssom/achievements?format=svg&limit=3" width="350" />
 </p>
+
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/lyssom}/contributions?format=svg" width="350" />
+    </a>
+</p>
